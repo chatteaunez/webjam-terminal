@@ -1,14 +1,11 @@
 function validate(e){
   var v = e.value;
   appendLine(v);
-  
+
   e.value='> ';
 }
-function enter(e){
-    if(e.keyCode === 13){
-        e.preventDefault(); // Ensure it is only this code that rusn
-        return true;
-    }
+function isEnter(e){
+    if(e.keyCode === 13){e.preventDefault();return true;}
     else return false;
 }
 
