@@ -1,0 +1,11 @@
+html{background:#111;color:#EEE;font-size:20px;line-height:25px;font-family:monospace; }
+input{
+  background: transparent;
+  color:#EEE;
+  outline: none;
+  border: none;
+  font-size:20px;
+  line-height:22px;
+  font-family:monospace;
+  width:100%;
+}
