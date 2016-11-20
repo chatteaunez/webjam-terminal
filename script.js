@@ -25,8 +25,7 @@ function validate(e,v){
   if(e){e.value='';}
 }
 function isEnter(e){
-    if(e.keyCode === 13){e.preventDefault();return true;}
-    else return false;
+    if(e.keyCode===13){e.preventDefault();return true;}
 }
 
 function appendLine(v){
