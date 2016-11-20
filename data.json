@@ -1,0 +1,91 @@
+[
+  {
+    "key":"boot",
+    "lines":[
+      "<span style=\"color:red\">Bienvenue, utilisateur</span>",
+      "<span style=\"color:red\">Ceci est le terminal du premier atelier Webjam de l'ESAD d'Amiens</span>",
+      "<span style=\"color:red\">Entrez -help ou -h pour une liste des commandes</span>"
+    ]
+  },
+  {
+    "key":"-help",
+    "lines":[
+      "-infos = informations sur l'atelier",
+      "open = naviguer dans les projets",
+      "-dskmp = arborescence des projets"
+    ]
+  },
+  {
+    "key":"-h",
+    "lines":[
+      "-infos ou -i = informations sur l'atelier",
+      "open = naviguer dans les projets",
+      "-dskmp = arborescence des projets"
+    ]
+  },
+  {
+    "key":"-infos",
+    "lines":[
+      "L'atelier webjam s'est déroulé les 19 et 20 novembre 2016",
+      "Il a prit place à l'ESAD d'Amiens et était animé par Léo Catonnet",
+      "Léo Catonnet est diplomé de l'ESAD d'Amiens et de l'UTC et a co-fondé le studio <a href=\"http://ploy.design\" target=blank>ploy.design</a>",
+      "Pendant la durée du workshop, 3 étudiants ont dû développer un site internet en rapport avec le sujet \"Terminal\""
+    ]
+  },
+  {
+    "key":"-i",
+    "lines":[
+      "L'atelier webjam s'est déroulé les 19 et 20 novembre 2016",
+      "Il a prit place à l'ESAD d'Amiens et était animé par Léo Catonnet",
+      "Léo Catonnet est diplomé de l'ESAD d'Amiens et de l'UTC et a co-fondé le studio <a href=\"http://ploy.design\" target=blank>ploy.design</a>",
+      "Pendant la durée du workshop, 3 étudiants ont dû développer un site internet en rapport avec le sujet \"Terminal\""
+    ]
+  },
+  {
+    "key":"-dskmp",
+    "lines":[
+      "~ ┑",
+      "&nbsp;&nbsp;┝ aymeric",
+      "&nbsp;&nbsp;┝ julie",
+      "&nbsp;&nbsp;┕ lauriane"
+    ]
+  },
+  {
+    "key":"open aymeric",
+    "lines":[
+      "? // <a href=\"aymeric/\" target=blank>Voir le site</a>",
+      "Les sources du projet son accessibles sur <a href=\"https://github.com/DonMrik/Webjam-term\" target=blank>GitHub</a>",
+      "Dans le cadre d’un atelier création numérique WebJam, nous nous sommes intéressés au thème « terminal ». ",
+      "Ce mot est relatif aux bornes des champs (source : Centre National de Ressources Textuelles et Lexicales), à ce qui constitue l’extrémité de quelque chose, le dernier élément, ce qui marque la fin. Mais quand on y réfléchi bien, ce qui marque la fin d’un espace ou d’un temps, marque également le début d’autre chose, et c’est cette frontière perméable entre 2 univers, comme le Terminal d’un aéroport qui est une zone de transit entre les sols et les airs, que j’ai voulu mettre en avant dans ma création numérique.",
+      "Le site « ? » questionne ce principe, en effet, il permet de taper dans la barre de recherche un mot, qui va sur la même page nous donner d’un côté sa définition et de l’autre des images correspondant à un autre mot, qui est lié de près ou de loin au mot d’origine. ",
+      "Certaine fois le lien ce révèle rapidement et d’autrefois non, et pourtant il est bel et bien présent dans l’algorithme du site. ",
+      "Qu’est-ce qu’un terminal? est-ce une fin ? la fin existe-t-elle?",
+      "« Rien ne se perd, rien ne se crée, tout se transforme » Lavoisier",
+      " ",
+      "Aymeric Quemard",
+      "Esad Amiens",
+      "2016"
+    ]
+  },
+  {
+    "key":"open julie",
+    "lines":[
+      "<a href=\"julie/\" target=blank>Voir le site</a>",
+      "Les sources du projet son accessibles sur <a href=\"https://github.com/juliejuliejuliejulie/webjam-julie/\" target=blank>GitHub</a>"
+    ]
+  },
+  {
+    "key":"open lauriane",
+    "lines":[
+      "TERMINAL 6 // <a href=\"lauriane/\" target=blank>Voir le site</a>",
+      "Les sources du projet son accessibles sur <a href=\"https://github.com/ringardos/webjam-terminal\" target=blank>GitHub</a>",
+      "Un terminal, c'est un lieu de transit. J'ai voulu faire une page web où l'utilisateur puisse déposer une information et en récupérer une autre, transformée.",
+      "Le but étant de montrer les étapes de l'évolution. La requête textuelle saisie par la personne subit jusqu'à 6 transformations, ce qui fait référence à la théorie des six degrés de séparation.",
+      "La première et la dernière image du TERMINAL 6 sont liées, tout comme chaque personne sur le globe, potentiellement reliée à n'importe quelle autre, au travers d'une chaîne de relations individuelles comprenant au plus six maillons.",
+      " ",
+      "Lauriane L",
+      "Esad Amiens",
+      "2016"
+    ]
+  }
+]

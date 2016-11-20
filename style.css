@@ -1,11 +1,23 @@
-html{background:#111;color:#EEE;font-size:20px;line-height:25px;font-family:monospace; }
+html{background:#111;}
+article,span{color:#EEE;font-size:17px;line-height:21px;font-family:monospace;}
 input{
   background: transparent;
   color:#EEE;
   outline: none;
   border: none;
-  font-size:20px;
-  line-height:22px;
+  display: inline-block;
+  float:left;
+  font-size:17px;
+  line-height:18px;
   font-family:monospace;
-  width:100%;
+}
+input{margin-left:9px;width:90%;}
+#console article:before{content:"> ";}
+span.before{float:left;}
+*{
+   -moz-user-select: -moz-none;
+   -khtml-user-select: none;
+   -webkit-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
 }
